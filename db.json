@@ -172,14 +172,120 @@
 
 }
 ],
+"courses-10":[
+  {
+  "id":1,
+  "subject":"english",
+  "image":"english",
+  "description":"English - Class-10, previous year question paper-2022",
+  "download":"assets/images/courses-10/english-2022.pdf",
+  "view":"assets/images/courses-10/english-2022.pdf",
+  "author":"Tushar",
+  "class":"class-10"
+
+},
+{
+"id":2,
+"subject":"hindi",
+"image":"hindi",
+"description":"hindi - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/hindi-2022.pdf",
+"view":"assets/images/courses-10/hindi-2022.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},
+{
+"id":3,
+"subject":"maths",
+"image":"maths",
+"description":"maths - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/maths-2022.pdf",
+"view":"assets/images/courses-10/maths-2022.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},
+{
+"id":4,
+"subject":"science",
+"image":"science",
+"description":"science - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/science-2022.pdf",
+"view":"assets/images/courses-10/science-2022.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},{
+"id":5,
+"subject":"sst",
+"image":"sst",
+"description":"sst - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/sst-2022.pdf",
+"view":"assets/images/courses-10/sst-2022.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},{
+"id":6,
+"subject":"sanskrit",
+"image":"sanskrit",
+"description":"sanskrit - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/sanskrit-2022.pdf",
+"view":"assets/images/courses-10/sanskrit-2022.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},{
+"id":7,
+"subject":"it",
+"image":"it",
+"description":"it - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/it-2022.pdf",
+"view":"assets/images/courses-10/it-2022.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},{
+"id":8,
+"subject":"computer",
+"image":"computer",
+"description":"computer - Class-10, previous year question paper-2019",
+"download":"assets/images/courses-10/computer-2019.pdf",
+"view":"assets/images/courses-10/computer-2019.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},{
+"id":9,
+"subject":"maths",
+"image":"maths",
+"description":"maths - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/maths-basic-sample-2023.pdf",
+"view":"assets/images/courses-10/maths-basic-sample-2023.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+},{
+"id":10,
+"subject":"maths",
+"image":"maths",
+"description":"maths - Class-10, previous year question paper-2022",
+"download":"assets/images/courses-10/maths-standard-sample-2023.pdf",
+"view":"assets/images/courses-10/maths-standard-sample-2023.pdf",
+"author":"Tushar",
+  "class":"class-10"
+
+}
+],
 "courses-11":[
   {
   "id":1,
   "subject":"hindi",
   "image":"hindi",
   "description":"hindi - Class-12, previous year question paper-2022",
-  "download":"assets/images/courses-12/hindi-2022.pdf",
-  "view":"assets/images/courses-12/hindi-2022.pdf",
+  "download":"assets/images/courses-10/hindi-2022.pdf",
+  "view":"assets/images/courses-10/hindi-2022.pdf",
   "author":"Tushar",
   "class":"class-11"
 
